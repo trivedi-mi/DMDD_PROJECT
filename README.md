@@ -1,4 +1,4 @@
-                                           # **Database project Airline Management System**
+ # Airline Reservation System
 
 
 
@@ -31,21 +31,25 @@
 ![image](https://user-images.githubusercontent.com/90936306/146045102-220a0d3c-b019-4b77-a67a-5753dc8d16dd.png)
 <br/>
 <br/>
-**VIEWS DEFINED IN DDL COMMANDS**<br/>
+
+VIEWS DEFINED
+<br/>
 covid19_compliance_flights- Returns the airport and flight compliant with covid 19 <br/>
 flights_total_fare- Returns the data for fare of flights<br/>
 flight_cost_query- Gives the cost analysis in a flights
 
 <br/>
 <br/>
-**PROCEDURES DEFINED**<br/>
+PROCEDURES DEFINED
+<br/>
 airportsInState- Gives the airports in the state inputed<br/>
 findCustomerByTravelClass- Gives customers travelling in a particular class  for eg:- Business "BSC"<br/>
 IdentifyAirplanesOrigin- Returns Flights orginating from a particular airport
 
 <br/>
 <br/>
-**TRIGGERS DEFINED**<br/>
+TRIGGERS DEFINED
+<br/>
 Register- Send email acknowlegment to customers after their reservation
 
 
