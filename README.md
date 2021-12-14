@@ -8,12 +8,12 @@
 
 
 **ER MODEL**
-</br>
+<br/>
 
 
 ![image](https://user-images.githubusercontent.com/90936306/146044243-c1898c81-d747-425d-8d50-cb34114d40a5.png)
-</br>
-</br>
+<br/>
+<br/>
 
 **CLUSTERS**
 </br>
@@ -21,15 +21,15 @@
 
 
 ![image](https://user-images.githubusercontent.com/90936306/146044966-1d8e918a-1d90-4b31-848f-519290696768.png)
-</br>
+<br/>
 
 ![image](https://user-images.githubusercontent.com/90936306/146044997-7650facd-5257-4a2e-b77e-a514d6f480cf.png)
-</br>
+<br/>
 ![image](https://user-images.githubusercontent.com/90936306/146045075-0a116a36-858e-464e-97ea-daf0379c639d.png)
-</br>
+<br/>
 ![image](https://user-images.githubusercontent.com/90936306/146045102-220a0d3c-b019-4b77-a67a-5753dc8d16dd.png)
-</br>
-</br>
+<br/>
+<br/>
 **VIEWS DEFINED IN DDL COMMANDS**
 </br>
 covid19_compliance_flights- Returns the airport and flight compliant with covid 19
